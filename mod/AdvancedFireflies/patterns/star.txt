@@ -1,0 +1,2 @@
+; Five-pointed star
+REPEAT 5 [RT 144 FD 9 LT 72 FD 9]

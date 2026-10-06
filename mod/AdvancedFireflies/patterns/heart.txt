@@ -1,0 +1,9 @@
+; Heart - LOGO for AdvancedFireflies (1 unit = 1 m at PatternScale = 100)
+; start: the bottom tip of the heart, the turtle looks up
+; left side (16 m), left arc (half circle 16 m across), right arc, right side back to the tip
+LT 45
+FD 16
+ARC 8 180
+LT 90
+ARC 8 180
+FD 16

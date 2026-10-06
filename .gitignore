@@ -1,0 +1,7 @@
+build/
+*.obj
+*.lib
+*.asi
+*.log
+*.przed_*
+__pycache__/

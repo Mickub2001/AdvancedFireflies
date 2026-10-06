@@ -1,0 +1,34 @@
+AdvancedFireflies - Copyright (c) 2026 Mickub. All rights reserved.
+
+This mod must be treated as standalone, as is, and with this license always included.
+
+1. DISTRIBUTION
+It is NOT permitted to include this mod in other projects such as modpacks, nor to re-upload it
+anywhere else. The mod is updated regularly - a copy inside a modpack or a re-upload quickly
+becomes an outdated version. Modpacks and their installers may link to the official page instead:
+https://github.com/Mickub2001/AdvancedFireflies/releases
+
+It is not allowed to include this mod as part of another mod with the same purpose, as this makes
+people think the other mod is part of this one.
+
+2. YOUR OWN FILES ARE WELCOME
+Group files (GroupsSettings\*.ini), settings (.ini) and patterns (patterns\*.txt) that you make or
+change - including ones based on the files of this mod - may be shared freely. Share only these
+files, not the other files of this mod (such as the .asi or .fxs files); anyone who wants to use
+them downloads the mod from the official page.
+Screenshots, videos and streams showing the mod are welcome too - please credit the author and link
+the official page.
+
+3. CODE
+The source code of AdvancedFireflies is not public. The author may give access to it to persons he
+authorises; such access does not allow publishing or passing on the code.
+It is not permitted to decompile, disassemble or otherwise reverse-engineer AdvancedFireflies.asi
+or FxResetFix.asi, to modify or patch them, or to reuse any part of them (code, data, generated
+textures) in other projects - except as far as the applicable law allows it regardless of this
+license.
+
+If you want to use this mod as part of a bigger project (total conversion, total overhaul), or you
+need access to the code for compatibility work, please get in touch.
+
+4. NO WARRANTY
+The mod is provided as is, without warranty of any kind. Use it at your own risk.

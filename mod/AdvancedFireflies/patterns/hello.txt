@@ -1,0 +1,32 @@
+; HELLO! - letters 10 m tall, 6 m wide, 3 m apart
+; every letter starts at its lower left corner, the turtle looks up
+; PU = pen up (fly without a trail), PD = pen down (draw)
+
+; H
+PD FD 10 BK 5 RT 90 FD 6 LT 90 FD 5 BK 10
+PU RT 90 FD 3 LT 90
+
+; E
+PD FD 10 RT 90 FD 6
+PU BK 6 RT 90 FD 5 LT 90
+PD FD 5
+PU BK 5 RT 90 FD 5 LT 90
+PD FD 6
+PU FD 3 LT 90
+
+; L
+PU FD 10 PD BK 10 RT 90 FD 6
+PU FD 3 LT 90
+
+; L
+PU FD 10 PD BK 10 RT 90 FD 6
+PU FD 3 LT 90
+
+; O
+PU FD 3 PD FD 4 ARC 3 180 FD 4 ARC 3 180
+PU BK 3 RT 90 FD 10 LT 90
+
+; !
+PU FD 10 PD BK 7
+PU BK 2
+PD BK 1
