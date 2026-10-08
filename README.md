@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="gallery3" src="https://github.com/user-attachments/assets/a3fd4034-2515-41a0-a380-554866dfe6d0" />
+
 # AdvancedFireflies
 
 ASI plugin for **GTA San Andreas (PC, 1.0 US)** – fireflies, fairies and butterflies as living groups and swarms:
